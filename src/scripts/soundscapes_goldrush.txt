@@ -1,0 +1,16 @@
+"Goldrush.DeepInside"
+{
+
+}
+
+
+"Goldrush.Outside"
+{
+
+}
+
+"Goldrush.Inside"
+{
+
+}
+

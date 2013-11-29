@@ -1,0 +1,9 @@
+"Egypt.Outdoor"
+{
+
+}
+
+"Egypt.Indoor"
+{
+
+}

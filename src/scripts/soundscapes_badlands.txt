@@ -1,0 +1,15 @@
+"Badlands.Inside"
+{
+
+}
+
+"Badlands.Outside"
+{
+
+}
+
+"Badlands.OutsideInterior"
+{
+
+}
+

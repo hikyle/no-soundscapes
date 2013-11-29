@@ -1,0 +1,9 @@
+"GravelPit.Outside"
+{
+
+}
+
+"GravelPit.Inside"
+{
+
+}

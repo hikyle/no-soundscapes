@@ -1,0 +1,14 @@
+"Nightfall.Outdoors"
+{
+
+}
+
+"Nightfall.Indoors"
+{
+
+}	
+
+"Nightfall.Cavern"
+{
+
+}
